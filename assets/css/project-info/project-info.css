@@ -1,0 +1,17 @@
+.project-info-wrapper{
+  margin-top: 20px;
+  margin-bottom: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  min-height: 150px;
+  min-width: 100%;
+  background-color:var(--accent-color);
+}
+.project-info-unit{
+  display: flex;
+  color: white;
+
+}
+@media screen and (min-width: 576px) {
+
+}
